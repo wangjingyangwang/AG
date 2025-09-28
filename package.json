@@ -1,0 +1,11 @@
+{
+  "name": "my-agent",
+  "version": "1.0.0",
+  "bin": {
+    "ag": "./src/main.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "openai": "^5.19.1"
+  }
+}
